@@ -21,7 +21,7 @@
 
 📚 I'm the Mod of </b> #thebookclub5252: Reading for Self-Development and Growth, the goal is to read 52 non-fiction books in 52 weeks. 
 
-📫 Connect with me on Twitter </h4>
+📫 Connect with me on <a href="https://twitter.com/BookClub5252">Twitter</a></h4>
 
 
 
