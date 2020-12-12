@@ -1,5 +1,5 @@
 <!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h3>Thanks for visiting, it's great to have you here!</h3>
 
@@ -11,7 +11,7 @@
 **Trisha404/Trisha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- welcome message -->
-<p> I'm Trisha, I have a Bachelors's of Honours degree in psychology and did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital. I want to combine my knowledge of psychology and digital skills to change the face of mental health care in a positve mannor. I believe that digital can enhance services <b> but does not</b> replace traditional face-to-face support. A blended approach to healthcare is the furture. 
+<p> I'm Trisha, the newbie in town. I have a Bachelors's of Honours degree in psychology and did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital. I want to combine my knowledge of psychology and digital skills to change the face of mental health care in a positve mannor, combining technology with more tradtional methods. I believe that digital can enhance services <b> but does not</b> replace face-to-face support. A blended approach to healthcare is the furture. 
 
 <h2><b>Talking of Personal Stuffs...</b></h2>
 
@@ -23,7 +23,7 @@
 
 📫 Follow my coding & cat posting journey on <a href="https://twitter.com/BookClub5252">Twitter</a></p>
 
-<h2><!-- Connect with me --></2>
+<!-- <h2>Connect with me</h2> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -34,7 +34,7 @@
 </p>
 
 <!-- GitHub stats -->
-<b>⚡ My Dev Statistics</b>
+<h2><b>⚡ My Dev Statistics</b><h2>
 
 <p>
 <!-- GitHub Stats -->
