@@ -19,6 +19,8 @@
 
 🌱 Learning Python and brushing up on my html, CSS and JavaScript skills.
 
+📚 I'm the Mod of </b> #thebookclub5252: Reading for Self-Development and Growth, the goal is to read 52 non-fiction books in 52 weeks. 
+
 📫 Connect with me on Twitter </h4>
 
 
