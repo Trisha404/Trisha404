@@ -23,6 +23,17 @@
 
 📫 Follow my coding & cat posting journey on <a href="https://twitter.com/BookClub5252">Twitter</a></h4>
 
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://twitter.com/BookClub5252" target="blank"><img align="center" src="https://github.com/Trisha404/Trisha404/blob/main/assets/Twitter.JPG" alt="Trisha" height="30" width="30" /></a>
+
+<a href="https://www.goodreads.com/group/show/1108466-the-book-club-52-52-reading-for-self-development-growth-community" target="blank"><img align="center" src="https://github.com/Trisha404/Trisha404/blob/main/assets/Goodreads.JPG" alt="Trisha" height="30" width="30" /></a>
+
+
+</p>
+
 
 
 
