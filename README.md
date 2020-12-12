@@ -13,7 +13,7 @@
 <!-- welcome message -->
 <p> I'm Trisha, I have a Bachelors's of Honours degree in psychology and did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital. I want to combine my knowledge of psychology and digital skills to change the face of mental health care in a positve mannor. I believe that digital can enhance services <b> but does not</b> replace traditional face-to-face support. A blended approach to healthcare is the furture. 
 
-<b>Personal Stuffs:</b>
+<h2><b>Talking of Personal Stuffs...</b></h2>
 
 💻 Currently taking part in the <b>#100DaysofCode</b> challenge 😉
 
@@ -23,7 +23,7 @@
 
 📫 Follow my coding & cat posting journey on <a href="https://twitter.com/BookClub5252">Twitter</a></p>
 
-<!-- Connect with me -->
+<h2><!-- Connect with me --></2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
