@@ -11,7 +11,7 @@
 **Trisha404/Trisha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- welcome message -->
-<p> I'm Trisha, the newbie in town. I have a Bachelors of Honours degree in psychology and did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital. I want to combine my knowledge of psychology and digital skills to change the face of mental health care in a positive manner, combining technology with more traditional methods. I believe that digital can enhance services but does not replace face-to-face support. A blended approach to healthcare is the way forward.
+<p> I'm Trisha, the newbie in town. I have a Bachelors of Honours degree in psychology and did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital. I want to combine my knowledge of psychology, online teaching and digital skills to change the face of mental health education in a positive manner, combining technology with more traditional methods. I believe that digital can enhance services but does not replace face-to-face support. A blended approach is the way forward.
 
 <h2><b>Talking of Personal Stuffs...</b></h2>
 
@@ -19,7 +19,7 @@
 
 🌱 Learning Python and brushing up on my html, CSS and JavaScript skills.
 
-📚 I'm the Mod of </b> #thebookclub5252: Reading for Self-Development and Growth, the goal is to read 52 non-fiction books in 52 weeks. 
+📚 I'm the founder of </b> #thebookclub5252: Reading for Self-Development and Growth, the goal is to read 52 non-fiction books in 52 weeks. 
 
 📫 Follow my coding & cat posting journey on <a href="https://twitter.com/BookClub5252">Twitter</a></p>
 
@@ -44,7 +44,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha404&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-# My followers
-<!--START_SECTION:top-followers--> 
-<!--END_SECTION:top-followers-->
 
