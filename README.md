@@ -13,7 +13,7 @@
 <!-- welcome message -->
 <p> I'm Trisha, the newbie in town. I have a Bachelors of Honours degree in psychology and did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital. I want to combine my knowledge of psychology, online teaching and digital skills to change the face of mental health education in a positive manner, combining technology with more traditional methods. I believe that digital can enhance services but does not replace face-to-face support. A blended approach is the way forward.
 
-<h2><b>Talking of Personal Stuffs...</b></h2>
+<h2><b>About Me...</b></h2>
 
 💻 Currently taking part in the <b>#100DaysofCode</b> challenge 😉
 
