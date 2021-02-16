@@ -11,7 +11,7 @@
 **Trisha404/Trisha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- welcome message -->
-<p> I'm Trisha, the newbie in town. I have a Bachelors of Honours degree in psychology and did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital. I want to combine my knowledge of psychology, online teaching and digital skills to change the face of mental health education in a positive manner, combining technology with more traditional methods. I believe that digital can enhance services but does not replace face-to-face support. A blended approach is the way forward.
+<p> I'm Trisha, the newbie in town. I did an apprenticeship as a computer tech way back in 2000 have a Bachelors of Honours degree in psychology. I did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital! 
 
 <h2><b>About Me...</b></h2>
 
