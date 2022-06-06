@@ -11,17 +11,17 @@
 **Trisha404/Trisha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- welcome message -->
-<p> I'm Trisha, the newbie in town. I did an apprenticeship as a computer tech way back in 2000 have a Bachelors of Honours degree in psychology. I did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital! 
+<p> I'm Trisha, the newbie in town. I did an apprenticeship as a computer tech way back in 2000! I have a Bachelors of Honours degree in Psychology. I did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital! 
 
 <h2><b>About Me...</b></h2>
 
 💻 Currently taking part in the <b>#100DaysofCode</b> challenge 😉
 
-🌱 Learning Python and brushing up on my html, CSS and JavaScript skills.
+🌱 Learning Python, brushing up on my html, CSS and JavaScript & Cyber Security skills.
 
-📚 I'm the founder of </b> #thebookclub5252: Reading for Self-Development and Growth, the goal is to read 52 non-fiction books in 52 weeks. 
+📚 I'm the founder of </b> The Non-Fiction Hub: Reading for Self-Development and Growth, the goal is to read 52 non-fiction books in 52 weeks and apply at least one thing you learn from each book.  
 
-📫 Follow my coding journey on <a href="https://twitter.com/BookClub5252">Twitter</a></p>
+📫 Follow my coding & writing journey on <a href="https://twitter.com/dunbartrisha">Twitter</a></p>
 
 <!-- <h2>Connect with me</h2> -->
 <h3 align="left">Connect with me:</h3>
