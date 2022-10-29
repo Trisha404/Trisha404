@@ -1,5 +1,5 @@
 <!-- welcome message -->
-<h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2> 👋 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h3>Thanks for visiting, it's great to have you here!</h3>
 
@@ -11,15 +11,15 @@
 **Trisha404/Trisha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- welcome message -->
-<p> I'm Trisha, the newbie in town. I did an apprenticeship as a computer tech way back in 2000! I have a Bachelors of Honours degree in Psychology. I did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital! 
+<p> I'm Trisha, the newbie in town. I did an apprenticeship as a computer tech and web dev way back in 2000! I have a Bachelors of Honours Degree in Psychology. I did my postgrad in research, education and management 🎓 I'm a passionate about learning new things especially in relation to all things digital! 
 
 <h2><b>About Me...</b></h2>
 
 💻 Currently taking part in the <b>#100DaysofCode</b> challenge 😉
 
-🌱 Learning Ruby, brushing up on Python, html, CSS and JavaScript & Cyber Security skills.
+🌱 Brushing up on Python, html, CSS, SQL and JavaScript & Cyber Security skills.
 
-📚 I'm the founder of </b> The Non-Fiction Hub: Reading for Self-Development and Growth, the goal is to read 52 non-fiction books in 52 weeks and apply at least one thing you learn from each book.  
+📚 I'm the founder of </b> The Non-Fiction Hub, a book club for people who enjoy reading for Self-Development and Growth, the goal is to read 52 non-fiction books in 52 weeks and apply at least one thing you learn from each book.  
 
 📫 Follow my coding & writing journey on <a href="https://twitter.com/dunbartrisha">Twitter</a></p>
 
@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/BookClub5252" target="blank"><img align="center" src="https://github.com/Trisha404/Trisha404/blob/main/assets/Twitter.JPG" alt="Trisha" height="30" width="30" /></a>
+<a href="https://twitter.com/dunbartrisha" target="blank"><img align="center" src="https://github.com/Trisha404/Trisha404/blob/main/assets/Twitter.JPG" alt="Trisha" height="30" width="30" /></a>
 <a href="https://www.goodreads.com/group/show/1108466-the-book-club-52-52-reading-for-self-development-growth-community" target="blank"><img align="center" src="https://github.com/Trisha404/Trisha404/blob/main/assets/Goodreads.JPG" alt="Trisha" height="30" width="30" /></a>
 
 
