@@ -17,7 +17,7 @@
 
 💻 Currently taking part in the <b>#100DaysofCode</b> challenge 😉
 
-🌱 Brushing up on Python, html, CSS, SQL and JavaScript & Cyber Security skills.
+🌱 Brushing up on Python, html, CSS, SQL, JavaScript & Cyber Security skills.
 
 📚 I'm the founder of </b> The Non-Fiction Hub, a book club for people who enjoy reading for Self-Development and Growth, the goal is to read 52 non-fiction books in 52 weeks and apply at least one thing you learn from each book.  
 
